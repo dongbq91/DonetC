@@ -1,0 +1,13 @@
+F:\C#\Kiphu\Chuong_3\Bai2_NV\bin\Debug\netcoreapp3.1\Bai2_NV.exe
+F:\C#\Kiphu\Chuong_3\Bai2_NV\bin\Debug\netcoreapp3.1\Bai2_NV.deps.json
+F:\C#\Kiphu\Chuong_3\Bai2_NV\bin\Debug\netcoreapp3.1\Bai2_NV.runtimeconfig.json
+F:\C#\Kiphu\Chuong_3\Bai2_NV\bin\Debug\netcoreapp3.1\Bai2_NV.runtimeconfig.dev.json
+F:\C#\Kiphu\Chuong_3\Bai2_NV\bin\Debug\netcoreapp3.1\Bai2_NV.dll
+F:\C#\Kiphu\Chuong_3\Bai2_NV\bin\Debug\netcoreapp3.1\Bai2_NV.pdb
+F:\C#\Kiphu\Chuong_3\Bai2_NV\obj\Debug\netcoreapp3.1\Bai2_NV.AssemblyInfoInputs.cache
+F:\C#\Kiphu\Chuong_3\Bai2_NV\obj\Debug\netcoreapp3.1\Bai2_NV.AssemblyInfo.cs
+F:\C#\Kiphu\Chuong_3\Bai2_NV\obj\Debug\netcoreapp3.1\Bai2_NV.csproj.CoreCompileInputs.cache
+F:\C#\Kiphu\Chuong_3\Bai2_NV\obj\Debug\netcoreapp3.1\Bai2_NV.dll
+F:\C#\Kiphu\Chuong_3\Bai2_NV\obj\Debug\netcoreapp3.1\Bai2_NV.pdb
+F:\C#\Kiphu\Chuong_3\Bai2_NV\obj\Debug\netcoreapp3.1\Bai2_NV.genruntimeconfig.cache
+F:\C#\Kiphu\Chuong_3\Bai2_NV\obj\Debug\netcoreapp3.1\Bai2_NV.csproj.AssemblyReference.cache

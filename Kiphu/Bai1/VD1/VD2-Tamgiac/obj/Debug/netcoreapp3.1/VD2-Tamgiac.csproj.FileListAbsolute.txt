@@ -1,0 +1,13 @@
+F:\C#\Kiphu\Bai1\VD1\VD2-Tamgiac\bin\Debug\netcoreapp3.1\VD2-Tamgiac.exe
+F:\C#\Kiphu\Bai1\VD1\VD2-Tamgiac\bin\Debug\netcoreapp3.1\VD2-Tamgiac.deps.json
+F:\C#\Kiphu\Bai1\VD1\VD2-Tamgiac\bin\Debug\netcoreapp3.1\VD2-Tamgiac.runtimeconfig.json
+F:\C#\Kiphu\Bai1\VD1\VD2-Tamgiac\bin\Debug\netcoreapp3.1\VD2-Tamgiac.runtimeconfig.dev.json
+F:\C#\Kiphu\Bai1\VD1\VD2-Tamgiac\bin\Debug\netcoreapp3.1\VD2-Tamgiac.dll
+F:\C#\Kiphu\Bai1\VD1\VD2-Tamgiac\bin\Debug\netcoreapp3.1\VD2-Tamgiac.pdb
+F:\C#\Kiphu\Bai1\VD1\VD2-Tamgiac\obj\Debug\netcoreapp3.1\VD2-Tamgiac.csproj.AssemblyReference.cache
+F:\C#\Kiphu\Bai1\VD1\VD2-Tamgiac\obj\Debug\netcoreapp3.1\VD2-Tamgiac.AssemblyInfoInputs.cache
+F:\C#\Kiphu\Bai1\VD1\VD2-Tamgiac\obj\Debug\netcoreapp3.1\VD2-Tamgiac.AssemblyInfo.cs
+F:\C#\Kiphu\Bai1\VD1\VD2-Tamgiac\obj\Debug\netcoreapp3.1\VD2-Tamgiac.csproj.CoreCompileInputs.cache
+F:\C#\Kiphu\Bai1\VD1\VD2-Tamgiac\obj\Debug\netcoreapp3.1\VD2-Tamgiac.dll
+F:\C#\Kiphu\Bai1\VD1\VD2-Tamgiac\obj\Debug\netcoreapp3.1\VD2-Tamgiac.pdb
+F:\C#\Kiphu\Bai1\VD1\VD2-Tamgiac\obj\Debug\netcoreapp3.1\VD2-Tamgiac.genruntimeconfig.cache

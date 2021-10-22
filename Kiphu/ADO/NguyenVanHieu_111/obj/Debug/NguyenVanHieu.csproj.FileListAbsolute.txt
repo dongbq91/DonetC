@@ -1,0 +1,10 @@
+E:\NguyenVanHieu\bin\Debug\NguyenVanHieu.exe.config
+E:\NguyenVanHieu\bin\Debug\NguyenVanHieu.exe
+E:\NguyenVanHieu\bin\Debug\NguyenVanHieu.pdb
+E:\NguyenVanHieu\obj\Debug\NguyenVanHieu.csprojAssemblyReference.cache
+E:\NguyenVanHieu\obj\Debug\NguyenVanHieu.Properties.Resources.resources
+E:\NguyenVanHieu\obj\Debug\NguyenVanHieu.csproj.GenerateResource.cache
+E:\NguyenVanHieu\obj\Debug\NguyenVanHieu.csproj.CoreCompileInputs.cache
+E:\NguyenVanHieu\obj\Debug\NguyenVanHieu.exe
+E:\NguyenVanHieu\obj\Debug\NguyenVanHieu.pdb
+E:\NguyenVanHieu\obj\Debug\NguyenVanHieu.GUI.resources

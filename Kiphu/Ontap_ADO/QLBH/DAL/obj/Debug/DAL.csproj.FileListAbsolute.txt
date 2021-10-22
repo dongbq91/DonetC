@@ -1,0 +1,6 @@
+F:\C#\Kiphu\Ontap_ADO\QLBH\DAL\bin\Debug\DAL.dll
+F:\C#\Kiphu\Ontap_ADO\QLBH\DAL\bin\Debug\DAL.pdb
+F:\C#\Kiphu\Ontap_ADO\QLBH\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+F:\C#\Kiphu\Ontap_ADO\QLBH\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+F:\C#\Kiphu\Ontap_ADO\QLBH\DAL\obj\Debug\DAL.dll
+F:\C#\Kiphu\Ontap_ADO\QLBH\DAL\obj\Debug\DAL.pdb

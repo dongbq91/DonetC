@@ -1,0 +1,15 @@
+F:\C#\Kiphu\Ontap_ADO\QuanlySV\QuanlySV\bin\Debug\QuanlySV.exe.config
+F:\C#\Kiphu\Ontap_ADO\QuanlySV\QuanlySV\bin\Debug\QuanlySV.exe
+F:\C#\Kiphu\Ontap_ADO\QuanlySV\QuanlySV\bin\Debug\QuanlySV.pdb
+F:\C#\Kiphu\Ontap_ADO\QuanlySV\QuanlySV\bin\Debug\BUS.dll
+F:\C#\Kiphu\Ontap_ADO\QuanlySV\QuanlySV\bin\Debug\BUS.pdb
+F:\C#\Kiphu\Ontap_ADO\QuanlySV\QuanlySV\obj\Debug\QuanlySV.csproj.AssemblyReference.cache
+F:\C#\Kiphu\Ontap_ADO\QuanlySV\QuanlySV\obj\Debug\QuanlySV.Form1.resources
+F:\C#\Kiphu\Ontap_ADO\QuanlySV\QuanlySV\obj\Debug\QuanlySV.Properties.Resources.resources
+F:\C#\Kiphu\Ontap_ADO\QuanlySV\QuanlySV\obj\Debug\QuanlySV.csproj.GenerateResource.cache
+F:\C#\Kiphu\Ontap_ADO\QuanlySV\QuanlySV\obj\Debug\QuanlySV.csproj.CoreCompileInputs.cache
+F:\C#\Kiphu\Ontap_ADO\QuanlySV\QuanlySV\obj\Debug\QuanlySV.csproj.CopyComplete
+F:\C#\Kiphu\Ontap_ADO\QuanlySV\QuanlySV\obj\Debug\QuanlySV.exe
+F:\C#\Kiphu\Ontap_ADO\QuanlySV\QuanlySV\obj\Debug\QuanlySV.pdb
+F:\C#\Kiphu\Ontap_ADO\QuanlySV\QuanlySV\bin\Debug\DAL.dll
+F:\C#\Kiphu\Ontap_ADO\QuanlySV\QuanlySV\bin\Debug\DAL.pdb

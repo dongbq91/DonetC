@@ -1,0 +1,12 @@
+F:\C#\Kiphu\Bai1\VD1\VD-Chuoi\bin\Debug\netcoreapp3.1\VD-Chuoi.exe
+F:\C#\Kiphu\Bai1\VD1\VD-Chuoi\bin\Debug\netcoreapp3.1\VD-Chuoi.deps.json
+F:\C#\Kiphu\Bai1\VD1\VD-Chuoi\bin\Debug\netcoreapp3.1\VD-Chuoi.runtimeconfig.json
+F:\C#\Kiphu\Bai1\VD1\VD-Chuoi\bin\Debug\netcoreapp3.1\VD-Chuoi.runtimeconfig.dev.json
+F:\C#\Kiphu\Bai1\VD1\VD-Chuoi\bin\Debug\netcoreapp3.1\VD-Chuoi.dll
+F:\C#\Kiphu\Bai1\VD1\VD-Chuoi\bin\Debug\netcoreapp3.1\VD-Chuoi.pdb
+F:\C#\Kiphu\Bai1\VD1\VD-Chuoi\obj\Debug\netcoreapp3.1\VD-Chuoi.AssemblyInfoInputs.cache
+F:\C#\Kiphu\Bai1\VD1\VD-Chuoi\obj\Debug\netcoreapp3.1\VD-Chuoi.AssemblyInfo.cs
+F:\C#\Kiphu\Bai1\VD1\VD-Chuoi\obj\Debug\netcoreapp3.1\VD-Chuoi.csproj.CoreCompileInputs.cache
+F:\C#\Kiphu\Bai1\VD1\VD-Chuoi\obj\Debug\netcoreapp3.1\VD-Chuoi.dll
+F:\C#\Kiphu\Bai1\VD1\VD-Chuoi\obj\Debug\netcoreapp3.1\VD-Chuoi.pdb
+F:\C#\Kiphu\Bai1\VD1\VD-Chuoi\obj\Debug\netcoreapp3.1\VD-Chuoi.genruntimeconfig.cache

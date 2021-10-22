@@ -1,0 +1,13 @@
+F:\C#\Kiphu\Chuong_3\PhongBan\obj\Debug\netcoreapp3.1\PhongBan.csproj.AssemblyReference.cache
+F:\C#\Kiphu\Chuong_3\PhongBan\obj\Debug\netcoreapp3.1\PhongBan.AssemblyInfoInputs.cache
+F:\C#\Kiphu\Chuong_3\PhongBan\obj\Debug\netcoreapp3.1\PhongBan.AssemblyInfo.cs
+F:\C#\Kiphu\Chuong_3\PhongBan\obj\Debug\netcoreapp3.1\PhongBan.csproj.CoreCompileInputs.cache
+F:\C#\Kiphu\Chuong_3\PhongBan\bin\Debug\netcoreapp3.1\PhongBan.exe
+F:\C#\Kiphu\Chuong_3\PhongBan\bin\Debug\netcoreapp3.1\PhongBan.deps.json
+F:\C#\Kiphu\Chuong_3\PhongBan\bin\Debug\netcoreapp3.1\PhongBan.runtimeconfig.json
+F:\C#\Kiphu\Chuong_3\PhongBan\bin\Debug\netcoreapp3.1\PhongBan.runtimeconfig.dev.json
+F:\C#\Kiphu\Chuong_3\PhongBan\bin\Debug\netcoreapp3.1\PhongBan.dll
+F:\C#\Kiphu\Chuong_3\PhongBan\bin\Debug\netcoreapp3.1\PhongBan.pdb
+F:\C#\Kiphu\Chuong_3\PhongBan\obj\Debug\netcoreapp3.1\PhongBan.dll
+F:\C#\Kiphu\Chuong_3\PhongBan\obj\Debug\netcoreapp3.1\PhongBan.pdb
+F:\C#\Kiphu\Chuong_3\PhongBan\obj\Debug\netcoreapp3.1\PhongBan.genruntimeconfig.cache

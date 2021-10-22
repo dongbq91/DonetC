@@ -1,0 +1,15 @@
+F:\C#\Kiphu\ADO\ADO\ADO\bin\Debug\ADO.exe.config
+F:\C#\Kiphu\ADO\ADO\ADO\bin\Debug\ADO.exe
+F:\C#\Kiphu\ADO\ADO\ADO\bin\Debug\ADO.pdb
+F:\C#\Kiphu\ADO\ADO\ADO\obj\Debug\ADO.csproj.AssemblyReference.cache
+F:\C#\Kiphu\ADO\ADO\ADO\obj\Debug\ADO.form1.resources
+F:\C#\Kiphu\ADO\ADO\ADO\obj\Debug\ADO.Properties.Resources.resources
+F:\C#\Kiphu\ADO\ADO\ADO\obj\Debug\ADO.csproj.GenerateResource.cache
+F:\C#\Kiphu\ADO\ADO\ADO\obj\Debug\ADO.csproj.CoreCompileInputs.cache
+F:\C#\Kiphu\ADO\ADO\ADO\obj\Debug\ADO.exe
+F:\C#\Kiphu\ADO\ADO\ADO\obj\Debug\ADO.pdb
+F:\C#\Kiphu\ADO\ADO\ADO\bin\Debug\BUS_ADO.dll
+F:\C#\Kiphu\ADO\ADO\ADO\bin\Debug\DAL-ADO.dll
+F:\C#\Kiphu\ADO\ADO\ADO\bin\Debug\BUS_ADO.pdb
+F:\C#\Kiphu\ADO\ADO\ADO\bin\Debug\DAL-ADO.pdb
+F:\C#\Kiphu\ADO\ADO\ADO\obj\Debug\ADO.csproj.CopyComplete

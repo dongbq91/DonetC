@@ -1,0 +1,9 @@
+F:\C#\Kiphu\ADO\ADO\BUS_ADO\obj\Debug\BUS_ADO.csproj.AssemblyReference.cache
+F:\C#\Kiphu\ADO\ADO\BUS_ADO\obj\Debug\BUS_ADO.csproj.CoreCompileInputs.cache
+F:\C#\Kiphu\ADO\ADO\BUS_ADO\bin\Debug\BUS_ADO.dll
+F:\C#\Kiphu\ADO\ADO\BUS_ADO\bin\Debug\BUS_ADO.pdb
+F:\C#\Kiphu\ADO\ADO\BUS_ADO\bin\Debug\DAL-ADO.dll
+F:\C#\Kiphu\ADO\ADO\BUS_ADO\bin\Debug\DAL-ADO.pdb
+F:\C#\Kiphu\ADO\ADO\BUS_ADO\obj\Debug\BUS_ADO.csproj.CopyComplete
+F:\C#\Kiphu\ADO\ADO\BUS_ADO\obj\Debug\BUS_ADO.dll
+F:\C#\Kiphu\ADO\ADO\BUS_ADO\obj\Debug\BUS_ADO.pdb

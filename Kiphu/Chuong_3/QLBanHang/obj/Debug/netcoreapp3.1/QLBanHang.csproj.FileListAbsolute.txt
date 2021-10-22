@@ -1,0 +1,13 @@
+F:\C#\Kiphu\Chuong_3\QLBanHang\obj\Debug\netcoreapp3.1\QLBanHang.AssemblyInfoInputs.cache
+F:\C#\Kiphu\Chuong_3\QLBanHang\obj\Debug\netcoreapp3.1\QLBanHang.AssemblyInfo.cs
+F:\C#\Kiphu\Chuong_3\QLBanHang\obj\Debug\netcoreapp3.1\QLBanHang.csproj.CoreCompileInputs.cache
+F:\C#\Kiphu\Chuong_3\QLBanHang\bin\Debug\netcoreapp3.1\QLBanHang.exe
+F:\C#\Kiphu\Chuong_3\QLBanHang\bin\Debug\netcoreapp3.1\QLBanHang.deps.json
+F:\C#\Kiphu\Chuong_3\QLBanHang\bin\Debug\netcoreapp3.1\QLBanHang.runtimeconfig.json
+F:\C#\Kiphu\Chuong_3\QLBanHang\bin\Debug\netcoreapp3.1\QLBanHang.runtimeconfig.dev.json
+F:\C#\Kiphu\Chuong_3\QLBanHang\bin\Debug\netcoreapp3.1\QLBanHang.dll
+F:\C#\Kiphu\Chuong_3\QLBanHang\bin\Debug\netcoreapp3.1\QLBanHang.pdb
+F:\C#\Kiphu\Chuong_3\QLBanHang\obj\Debug\netcoreapp3.1\QLBanHang.dll
+F:\C#\Kiphu\Chuong_3\QLBanHang\obj\Debug\netcoreapp3.1\QLBanHang.pdb
+F:\C#\Kiphu\Chuong_3\QLBanHang\obj\Debug\netcoreapp3.1\QLBanHang.genruntimeconfig.cache
+F:\C#\Kiphu\Chuong_3\QLBanHang\obj\Debug\netcoreapp3.1\QLBanHang.csproj.AssemblyReference.cache

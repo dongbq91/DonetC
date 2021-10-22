@@ -1,0 +1,12 @@
+F:\C#\Kiphu\Bai1\VD1\VD_TaoMaytinh\bin\Debug\netcoreapp3.1\VD_TaoMaytinh.exe
+F:\C#\Kiphu\Bai1\VD1\VD_TaoMaytinh\bin\Debug\netcoreapp3.1\VD_TaoMaytinh.deps.json
+F:\C#\Kiphu\Bai1\VD1\VD_TaoMaytinh\bin\Debug\netcoreapp3.1\VD_TaoMaytinh.runtimeconfig.json
+F:\C#\Kiphu\Bai1\VD1\VD_TaoMaytinh\bin\Debug\netcoreapp3.1\VD_TaoMaytinh.runtimeconfig.dev.json
+F:\C#\Kiphu\Bai1\VD1\VD_TaoMaytinh\bin\Debug\netcoreapp3.1\VD_TaoMaytinh.dll
+F:\C#\Kiphu\Bai1\VD1\VD_TaoMaytinh\bin\Debug\netcoreapp3.1\VD_TaoMaytinh.pdb
+F:\C#\Kiphu\Bai1\VD1\VD_TaoMaytinh\obj\Debug\netcoreapp3.1\VD_TaoMaytinh.AssemblyInfoInputs.cache
+F:\C#\Kiphu\Bai1\VD1\VD_TaoMaytinh\obj\Debug\netcoreapp3.1\VD_TaoMaytinh.AssemblyInfo.cs
+F:\C#\Kiphu\Bai1\VD1\VD_TaoMaytinh\obj\Debug\netcoreapp3.1\VD_TaoMaytinh.csproj.CoreCompileInputs.cache
+F:\C#\Kiphu\Bai1\VD1\VD_TaoMaytinh\obj\Debug\netcoreapp3.1\VD_TaoMaytinh.dll
+F:\C#\Kiphu\Bai1\VD1\VD_TaoMaytinh\obj\Debug\netcoreapp3.1\VD_TaoMaytinh.pdb
+F:\C#\Kiphu\Bai1\VD1\VD_TaoMaytinh\obj\Debug\netcoreapp3.1\VD_TaoMaytinh.genruntimeconfig.cache

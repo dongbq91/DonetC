@@ -1,0 +1,13 @@
+F:\C#\Kiphu\Bai1\VD1\B2-CTrucReNhanh\bin\Debug\netcoreapp3.1\B2-CTrucReNhanh.exe
+F:\C#\Kiphu\Bai1\VD1\B2-CTrucReNhanh\bin\Debug\netcoreapp3.1\B2-CTrucReNhanh.deps.json
+F:\C#\Kiphu\Bai1\VD1\B2-CTrucReNhanh\bin\Debug\netcoreapp3.1\B2-CTrucReNhanh.runtimeconfig.json
+F:\C#\Kiphu\Bai1\VD1\B2-CTrucReNhanh\bin\Debug\netcoreapp3.1\B2-CTrucReNhanh.runtimeconfig.dev.json
+F:\C#\Kiphu\Bai1\VD1\B2-CTrucReNhanh\bin\Debug\netcoreapp3.1\B2-CTrucReNhanh.dll
+F:\C#\Kiphu\Bai1\VD1\B2-CTrucReNhanh\bin\Debug\netcoreapp3.1\B2-CTrucReNhanh.pdb
+F:\C#\Kiphu\Bai1\VD1\B2-CTrucReNhanh\obj\Debug\netcoreapp3.1\B2-CTrucReNhanh.csproj.AssemblyReference.cache
+F:\C#\Kiphu\Bai1\VD1\B2-CTrucReNhanh\obj\Debug\netcoreapp3.1\B2-CTrucReNhanh.AssemblyInfoInputs.cache
+F:\C#\Kiphu\Bai1\VD1\B2-CTrucReNhanh\obj\Debug\netcoreapp3.1\B2-CTrucReNhanh.AssemblyInfo.cs
+F:\C#\Kiphu\Bai1\VD1\B2-CTrucReNhanh\obj\Debug\netcoreapp3.1\B2-CTrucReNhanh.csproj.CoreCompileInputs.cache
+F:\C#\Kiphu\Bai1\VD1\B2-CTrucReNhanh\obj\Debug\netcoreapp3.1\B2-CTrucReNhanh.dll
+F:\C#\Kiphu\Bai1\VD1\B2-CTrucReNhanh\obj\Debug\netcoreapp3.1\B2-CTrucReNhanh.pdb
+F:\C#\Kiphu\Bai1\VD1\B2-CTrucReNhanh\obj\Debug\netcoreapp3.1\B2-CTrucReNhanh.genruntimeconfig.cache

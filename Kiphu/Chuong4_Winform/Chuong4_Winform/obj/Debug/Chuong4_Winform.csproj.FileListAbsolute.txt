@@ -1,0 +1,10 @@
+F:\C#\Kiphu\Chuong4_Winform\Chuong4_Winform\bin\Debug\Chuong4_Winform.exe.config
+F:\C#\Kiphu\Chuong4_Winform\Chuong4_Winform\bin\Debug\Chuong4_Winform.exe
+F:\C#\Kiphu\Chuong4_Winform\Chuong4_Winform\bin\Debug\Chuong4_Winform.pdb
+F:\C#\Kiphu\Chuong4_Winform\Chuong4_Winform\obj\Debug\Chuong4_Winform.csproj.AssemblyReference.cache
+F:\C#\Kiphu\Chuong4_Winform\Chuong4_Winform\obj\Debug\Chuong4_Winform.Form1.resources
+F:\C#\Kiphu\Chuong4_Winform\Chuong4_Winform\obj\Debug\Chuong4_Winform.Properties.Resources.resources
+F:\C#\Kiphu\Chuong4_Winform\Chuong4_Winform\obj\Debug\Chuong4_Winform.csproj.GenerateResource.cache
+F:\C#\Kiphu\Chuong4_Winform\Chuong4_Winform\obj\Debug\Chuong4_Winform.csproj.CoreCompileInputs.cache
+F:\C#\Kiphu\Chuong4_Winform\Chuong4_Winform\obj\Debug\Chuong4_Winform.exe
+F:\C#\Kiphu\Chuong4_Winform\Chuong4_Winform\obj\Debug\Chuong4_Winform.pdb

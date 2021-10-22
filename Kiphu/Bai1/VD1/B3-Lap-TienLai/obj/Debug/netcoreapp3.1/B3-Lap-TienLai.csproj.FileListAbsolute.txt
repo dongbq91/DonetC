@@ -1,0 +1,13 @@
+F:\C#\Kiphu\Bai1\VD1\B3-Lap-TienLai\bin\Debug\netcoreapp3.1\B3-Lap-TienLai.exe
+F:\C#\Kiphu\Bai1\VD1\B3-Lap-TienLai\bin\Debug\netcoreapp3.1\B3-Lap-TienLai.deps.json
+F:\C#\Kiphu\Bai1\VD1\B3-Lap-TienLai\bin\Debug\netcoreapp3.1\B3-Lap-TienLai.runtimeconfig.json
+F:\C#\Kiphu\Bai1\VD1\B3-Lap-TienLai\bin\Debug\netcoreapp3.1\B3-Lap-TienLai.runtimeconfig.dev.json
+F:\C#\Kiphu\Bai1\VD1\B3-Lap-TienLai\bin\Debug\netcoreapp3.1\B3-Lap-TienLai.dll
+F:\C#\Kiphu\Bai1\VD1\B3-Lap-TienLai\bin\Debug\netcoreapp3.1\B3-Lap-TienLai.pdb
+F:\C#\Kiphu\Bai1\VD1\B3-Lap-TienLai\obj\Debug\netcoreapp3.1\B3-Lap-TienLai.csproj.AssemblyReference.cache
+F:\C#\Kiphu\Bai1\VD1\B3-Lap-TienLai\obj\Debug\netcoreapp3.1\B3-Lap-TienLai.AssemblyInfoInputs.cache
+F:\C#\Kiphu\Bai1\VD1\B3-Lap-TienLai\obj\Debug\netcoreapp3.1\B3-Lap-TienLai.AssemblyInfo.cs
+F:\C#\Kiphu\Bai1\VD1\B3-Lap-TienLai\obj\Debug\netcoreapp3.1\B3-Lap-TienLai.csproj.CoreCompileInputs.cache
+F:\C#\Kiphu\Bai1\VD1\B3-Lap-TienLai\obj\Debug\netcoreapp3.1\B3-Lap-TienLai.dll
+F:\C#\Kiphu\Bai1\VD1\B3-Lap-TienLai\obj\Debug\netcoreapp3.1\B3-Lap-TienLai.pdb
+F:\C#\Kiphu\Bai1\VD1\B3-Lap-TienLai\obj\Debug\netcoreapp3.1\B3-Lap-TienLai.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+F:\C#\Kiphu\Ontap_ADO\QLVSVIP\QLVSVIP\bin\Debug\QLVSVIP.exe.config
+F:\C#\Kiphu\Ontap_ADO\QLVSVIP\QLVSVIP\bin\Debug\QLVSVIP.exe
+F:\C#\Kiphu\Ontap_ADO\QLVSVIP\QLVSVIP\bin\Debug\QLVSVIP.pdb
+F:\C#\Kiphu\Ontap_ADO\QLVSVIP\QLVSVIP\bin\Debug\BUS.dll
+F:\C#\Kiphu\Ontap_ADO\QLVSVIP\QLVSVIP\bin\Debug\DAL.dll
+F:\C#\Kiphu\Ontap_ADO\QLVSVIP\QLVSVIP\bin\Debug\BUS.pdb
+F:\C#\Kiphu\Ontap_ADO\QLVSVIP\QLVSVIP\bin\Debug\DAL.pdb
+F:\C#\Kiphu\Ontap_ADO\QLVSVIP\QLVSVIP\obj\Debug\QLVSVIP.csproj.AssemblyReference.cache
+F:\C#\Kiphu\Ontap_ADO\QLVSVIP\QLVSVIP\obj\Debug\QLVSVIP.Form1.resources
+F:\C#\Kiphu\Ontap_ADO\QLVSVIP\QLVSVIP\obj\Debug\QLVSVIP.Properties.Resources.resources
+F:\C#\Kiphu\Ontap_ADO\QLVSVIP\QLVSVIP\obj\Debug\QLVSVIP.csproj.GenerateResource.cache
+F:\C#\Kiphu\Ontap_ADO\QLVSVIP\QLVSVIP\obj\Debug\QLVSVIP.csproj.CoreCompileInputs.cache
+F:\C#\Kiphu\Ontap_ADO\QLVSVIP\QLVSVIP\obj\Debug\QLVSVIP.csproj.CopyComplete
+F:\C#\Kiphu\Ontap_ADO\QLVSVIP\QLVSVIP\obj\Debug\QLVSVIP.exe
+F:\C#\Kiphu\Ontap_ADO\QLVSVIP\QLVSVIP\obj\Debug\QLVSVIP.pdb

@@ -1,0 +1,12 @@
+F:\C#\Kiphu\Bai1\VD1\B4-PhuongThuc\bin\Debug\netcoreapp3.1\B4-PhuongThuc.exe
+F:\C#\Kiphu\Bai1\VD1\B4-PhuongThuc\bin\Debug\netcoreapp3.1\B4-PhuongThuc.deps.json
+F:\C#\Kiphu\Bai1\VD1\B4-PhuongThuc\bin\Debug\netcoreapp3.1\B4-PhuongThuc.runtimeconfig.json
+F:\C#\Kiphu\Bai1\VD1\B4-PhuongThuc\bin\Debug\netcoreapp3.1\B4-PhuongThuc.runtimeconfig.dev.json
+F:\C#\Kiphu\Bai1\VD1\B4-PhuongThuc\bin\Debug\netcoreapp3.1\B4-PhuongThuc.dll
+F:\C#\Kiphu\Bai1\VD1\B4-PhuongThuc\bin\Debug\netcoreapp3.1\B4-PhuongThuc.pdb
+F:\C#\Kiphu\Bai1\VD1\B4-PhuongThuc\obj\Debug\netcoreapp3.1\B4-PhuongThuc.AssemblyInfoInputs.cache
+F:\C#\Kiphu\Bai1\VD1\B4-PhuongThuc\obj\Debug\netcoreapp3.1\B4-PhuongThuc.AssemblyInfo.cs
+F:\C#\Kiphu\Bai1\VD1\B4-PhuongThuc\obj\Debug\netcoreapp3.1\B4-PhuongThuc.csproj.CoreCompileInputs.cache
+F:\C#\Kiphu\Bai1\VD1\B4-PhuongThuc\obj\Debug\netcoreapp3.1\B4-PhuongThuc.dll
+F:\C#\Kiphu\Bai1\VD1\B4-PhuongThuc\obj\Debug\netcoreapp3.1\B4-PhuongThuc.pdb
+F:\C#\Kiphu\Bai1\VD1\B4-PhuongThuc\obj\Debug\netcoreapp3.1\B4-PhuongThuc.genruntimeconfig.cache

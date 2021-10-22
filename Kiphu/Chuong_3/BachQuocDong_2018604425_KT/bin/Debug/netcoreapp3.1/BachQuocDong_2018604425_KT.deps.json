@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "BachQuocDong_2018604425_KT/1.0.0": {
+        "runtime": {
+          "BachQuocDong_2018604425_KT.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BachQuocDong_2018604425_KT/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

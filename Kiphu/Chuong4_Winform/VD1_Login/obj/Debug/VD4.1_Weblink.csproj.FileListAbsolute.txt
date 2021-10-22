@@ -1,0 +1,9 @@
+F:\C#\Kiphu\Chuong4_Winform\VD1_Login\bin\Debug\VD1_Login.exe.config
+F:\C#\Kiphu\Chuong4_Winform\VD1_Login\bin\Debug\VD1_Login.exe
+F:\C#\Kiphu\Chuong4_Winform\VD1_Login\bin\Debug\VD1_Login.pdb
+F:\C#\Kiphu\Chuong4_Winform\VD1_Login\obj\Debug\VD1_Login.Form1.resources
+F:\C#\Kiphu\Chuong4_Winform\VD1_Login\obj\Debug\VD1_Login.Properties.Resources.resources
+F:\C#\Kiphu\Chuong4_Winform\VD1_Login\obj\Debug\VD4.1_Weblink.csproj.GenerateResource.cache
+F:\C#\Kiphu\Chuong4_Winform\VD1_Login\obj\Debug\VD4.1_Weblink.csproj.CoreCompileInputs.cache
+F:\C#\Kiphu\Chuong4_Winform\VD1_Login\obj\Debug\VD1_Login.exe
+F:\C#\Kiphu\Chuong4_Winform\VD1_Login\obj\Debug\VD1_Login.pdb

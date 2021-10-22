@@ -1,0 +1,6 @@
+F:\C#\Kiphu\ADO\ADO\DAL-ADO\bin\Debug\DAL-ADO.dll
+F:\C#\Kiphu\ADO\ADO\DAL-ADO\bin\Debug\DAL-ADO.pdb
+F:\C#\Kiphu\ADO\ADO\DAL-ADO\obj\Debug\DAL-ADO.csproj.AssemblyReference.cache
+F:\C#\Kiphu\ADO\ADO\DAL-ADO\obj\Debug\DAL-ADO.csproj.CoreCompileInputs.cache
+F:\C#\Kiphu\ADO\ADO\DAL-ADO\obj\Debug\DAL-ADO.dll
+F:\C#\Kiphu\ADO\ADO\DAL-ADO\obj\Debug\DAL-ADO.pdb

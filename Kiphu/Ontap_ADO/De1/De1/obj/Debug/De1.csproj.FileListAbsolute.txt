@@ -1,0 +1,15 @@
+F:\C#\Kiphu\Ontap_ADO\De1\De1\bin\Debug\De1.exe.config
+F:\C#\Kiphu\Ontap_ADO\De1\De1\bin\Debug\De1.exe
+F:\C#\Kiphu\Ontap_ADO\De1\De1\bin\Debug\De1.pdb
+F:\C#\Kiphu\Ontap_ADO\De1\De1\bin\Debug\BUS.dll
+F:\C#\Kiphu\Ontap_ADO\De1\De1\bin\Debug\BUS.pdb
+F:\C#\Kiphu\Ontap_ADO\De1\De1\obj\Debug\De1.csproj.AssemblyReference.cache
+F:\C#\Kiphu\Ontap_ADO\De1\De1\obj\Debug\De1.Form1.resources
+F:\C#\Kiphu\Ontap_ADO\De1\De1\obj\Debug\De1.Properties.Resources.resources
+F:\C#\Kiphu\Ontap_ADO\De1\De1\obj\Debug\De1.csproj.GenerateResource.cache
+F:\C#\Kiphu\Ontap_ADO\De1\De1\obj\Debug\De1.csproj.CoreCompileInputs.cache
+F:\C#\Kiphu\Ontap_ADO\De1\De1\obj\Debug\De1.csproj.CopyComplete
+F:\C#\Kiphu\Ontap_ADO\De1\De1\obj\Debug\De1.exe
+F:\C#\Kiphu\Ontap_ADO\De1\De1\obj\Debug\De1.pdb
+F:\C#\Kiphu\Ontap_ADO\De1\De1\bin\Debug\DAL.dll
+F:\C#\Kiphu\Ontap_ADO\De1\De1\bin\Debug\DAL.pdb

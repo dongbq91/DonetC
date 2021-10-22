@@ -1,0 +1,13 @@
+F:\C#\Kiphu\Chuong_3\Bai3_CaseNV\bin\Debug\netcoreapp3.1\Bai3_CaseNV.exe
+F:\C#\Kiphu\Chuong_3\Bai3_CaseNV\bin\Debug\netcoreapp3.1\Bai3_CaseNV.deps.json
+F:\C#\Kiphu\Chuong_3\Bai3_CaseNV\bin\Debug\netcoreapp3.1\Bai3_CaseNV.runtimeconfig.json
+F:\C#\Kiphu\Chuong_3\Bai3_CaseNV\bin\Debug\netcoreapp3.1\Bai3_CaseNV.runtimeconfig.dev.json
+F:\C#\Kiphu\Chuong_3\Bai3_CaseNV\bin\Debug\netcoreapp3.1\Bai3_CaseNV.dll
+F:\C#\Kiphu\Chuong_3\Bai3_CaseNV\bin\Debug\netcoreapp3.1\Bai3_CaseNV.pdb
+F:\C#\Kiphu\Chuong_3\Bai3_CaseNV\obj\Debug\netcoreapp3.1\Bai3_CaseNV.csproj.AssemblyReference.cache
+F:\C#\Kiphu\Chuong_3\Bai3_CaseNV\obj\Debug\netcoreapp3.1\Bai3_CaseNV.AssemblyInfoInputs.cache
+F:\C#\Kiphu\Chuong_3\Bai3_CaseNV\obj\Debug\netcoreapp3.1\Bai3_CaseNV.AssemblyInfo.cs
+F:\C#\Kiphu\Chuong_3\Bai3_CaseNV\obj\Debug\netcoreapp3.1\Bai3_CaseNV.csproj.CoreCompileInputs.cache
+F:\C#\Kiphu\Chuong_3\Bai3_CaseNV\obj\Debug\netcoreapp3.1\Bai3_CaseNV.dll
+F:\C#\Kiphu\Chuong_3\Bai3_CaseNV\obj\Debug\netcoreapp3.1\Bai3_CaseNV.pdb
+F:\C#\Kiphu\Chuong_3\Bai3_CaseNV\obj\Debug\netcoreapp3.1\Bai3_CaseNV.genruntimeconfig.cache

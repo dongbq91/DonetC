@@ -1,0 +1,12 @@
+F:\C#\Kiphu\Bai1\VD1\VD-Sochan\bin\Debug\netcoreapp3.1\VD-Sochan.exe
+F:\C#\Kiphu\Bai1\VD1\VD-Sochan\bin\Debug\netcoreapp3.1\VD-Sochan.deps.json
+F:\C#\Kiphu\Bai1\VD1\VD-Sochan\bin\Debug\netcoreapp3.1\VD-Sochan.runtimeconfig.json
+F:\C#\Kiphu\Bai1\VD1\VD-Sochan\bin\Debug\netcoreapp3.1\VD-Sochan.runtimeconfig.dev.json
+F:\C#\Kiphu\Bai1\VD1\VD-Sochan\bin\Debug\netcoreapp3.1\VD-Sochan.dll
+F:\C#\Kiphu\Bai1\VD1\VD-Sochan\bin\Debug\netcoreapp3.1\VD-Sochan.pdb
+F:\C#\Kiphu\Bai1\VD1\VD-Sochan\obj\Debug\netcoreapp3.1\VD-Sochan.AssemblyInfoInputs.cache
+F:\C#\Kiphu\Bai1\VD1\VD-Sochan\obj\Debug\netcoreapp3.1\VD-Sochan.AssemblyInfo.cs
+F:\C#\Kiphu\Bai1\VD1\VD-Sochan\obj\Debug\netcoreapp3.1\VD-Sochan.csproj.CoreCompileInputs.cache
+F:\C#\Kiphu\Bai1\VD1\VD-Sochan\obj\Debug\netcoreapp3.1\VD-Sochan.dll
+F:\C#\Kiphu\Bai1\VD1\VD-Sochan\obj\Debug\netcoreapp3.1\VD-Sochan.pdb
+F:\C#\Kiphu\Bai1\VD1\VD-Sochan\obj\Debug\netcoreapp3.1\VD-Sochan.genruntimeconfig.cache

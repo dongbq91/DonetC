@@ -1,0 +1,15 @@
+F:\C#\Kiphu\Ontap_ADO\QLBH\QLBH\bin\Debug\QLBH.exe.config
+F:\C#\Kiphu\Ontap_ADO\QLBH\QLBH\bin\Debug\QLBH.exe
+F:\C#\Kiphu\Ontap_ADO\QLBH\QLBH\bin\Debug\QLBH.pdb
+F:\C#\Kiphu\Ontap_ADO\QLBH\QLBH\bin\Debug\BUS.dll
+F:\C#\Kiphu\Ontap_ADO\QLBH\QLBH\bin\Debug\BUS.pdb
+F:\C#\Kiphu\Ontap_ADO\QLBH\QLBH\obj\Debug\QLBH.csproj.AssemblyReference.cache
+F:\C#\Kiphu\Ontap_ADO\QLBH\QLBH\obj\Debug\QLBH.Form1.resources
+F:\C#\Kiphu\Ontap_ADO\QLBH\QLBH\obj\Debug\QLBH.Properties.Resources.resources
+F:\C#\Kiphu\Ontap_ADO\QLBH\QLBH\obj\Debug\QLBH.csproj.GenerateResource.cache
+F:\C#\Kiphu\Ontap_ADO\QLBH\QLBH\obj\Debug\QLBH.csproj.CoreCompileInputs.cache
+F:\C#\Kiphu\Ontap_ADO\QLBH\QLBH\obj\Debug\QLBH.csproj.CopyComplete
+F:\C#\Kiphu\Ontap_ADO\QLBH\QLBH\obj\Debug\QLBH.exe
+F:\C#\Kiphu\Ontap_ADO\QLBH\QLBH\obj\Debug\QLBH.pdb
+F:\C#\Kiphu\Ontap_ADO\QLBH\QLBH\bin\Debug\DAL.dll
+F:\C#\Kiphu\Ontap_ADO\QLBH\QLBH\bin\Debug\DAL.pdb

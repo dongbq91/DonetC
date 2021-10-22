@@ -1,0 +1,13 @@
+F:\C#\Kiphu\Chuong_3\BachQuocDong_2018604425_KT\bin\Debug\netcoreapp3.1\BachQuocDong_2018604425_KT.exe
+F:\C#\Kiphu\Chuong_3\BachQuocDong_2018604425_KT\bin\Debug\netcoreapp3.1\BachQuocDong_2018604425_KT.deps.json
+F:\C#\Kiphu\Chuong_3\BachQuocDong_2018604425_KT\bin\Debug\netcoreapp3.1\BachQuocDong_2018604425_KT.runtimeconfig.json
+F:\C#\Kiphu\Chuong_3\BachQuocDong_2018604425_KT\bin\Debug\netcoreapp3.1\BachQuocDong_2018604425_KT.runtimeconfig.dev.json
+F:\C#\Kiphu\Chuong_3\BachQuocDong_2018604425_KT\bin\Debug\netcoreapp3.1\BachQuocDong_2018604425_KT.dll
+F:\C#\Kiphu\Chuong_3\BachQuocDong_2018604425_KT\bin\Debug\netcoreapp3.1\BachQuocDong_2018604425_KT.pdb
+F:\C#\Kiphu\Chuong_3\BachQuocDong_2018604425_KT\obj\Debug\netcoreapp3.1\BachQuocDong_2018604425_KT.AssemblyInfoInputs.cache
+F:\C#\Kiphu\Chuong_3\BachQuocDong_2018604425_KT\obj\Debug\netcoreapp3.1\BachQuocDong_2018604425_KT.AssemblyInfo.cs
+F:\C#\Kiphu\Chuong_3\BachQuocDong_2018604425_KT\obj\Debug\netcoreapp3.1\BachQuocDong_2018604425_KT.csproj.CoreCompileInputs.cache
+F:\C#\Kiphu\Chuong_3\BachQuocDong_2018604425_KT\obj\Debug\netcoreapp3.1\BachQuocDong_2018604425_KT.dll
+F:\C#\Kiphu\Chuong_3\BachQuocDong_2018604425_KT\obj\Debug\netcoreapp3.1\BachQuocDong_2018604425_KT.pdb
+F:\C#\Kiphu\Chuong_3\BachQuocDong_2018604425_KT\obj\Debug\netcoreapp3.1\BachQuocDong_2018604425_KT.genruntimeconfig.cache
+F:\C#\Kiphu\Chuong_3\BachQuocDong_2018604425_KT\obj\Debug\netcoreapp3.1\BachQuocDong_2018604425_KT.csproj.AssemblyReference.cache

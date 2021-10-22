@@ -1,0 +1,10 @@
+C:\Users\ACER\OneDrive\Máy tính\PhamMinhTuan2018605228\BaiKiemTra2\BaiKiemTra2\bin\Debug\BaiKiemTra2.exe.config
+C:\Users\ACER\OneDrive\Máy tính\PhamMinhTuan2018605228\BaiKiemTra2\BaiKiemTra2\bin\Debug\BaiKiemTra2.exe
+C:\Users\ACER\OneDrive\Máy tính\PhamMinhTuan2018605228\BaiKiemTra2\BaiKiemTra2\bin\Debug\BaiKiemTra2.pdb
+C:\Users\ACER\OneDrive\Máy tính\PhamMinhTuan2018605228\BaiKiemTra2\BaiKiemTra2\obj\Debug\BaiKiemTra2.csproj.AssemblyReference.cache
+C:\Users\ACER\OneDrive\Máy tính\PhamMinhTuan2018605228\BaiKiemTra2\BaiKiemTra2\obj\Debug\BaiKiemTra2.Form1.resources
+C:\Users\ACER\OneDrive\Máy tính\PhamMinhTuan2018605228\BaiKiemTra2\BaiKiemTra2\obj\Debug\BaiKiemTra2.Properties.Resources.resources
+C:\Users\ACER\OneDrive\Máy tính\PhamMinhTuan2018605228\BaiKiemTra2\BaiKiemTra2\obj\Debug\BaiKiemTra2.csproj.GenerateResource.cache
+C:\Users\ACER\OneDrive\Máy tính\PhamMinhTuan2018605228\BaiKiemTra2\BaiKiemTra2\obj\Debug\BaiKiemTra2.csproj.CoreCompileInputs.cache
+C:\Users\ACER\OneDrive\Máy tính\PhamMinhTuan2018605228\BaiKiemTra2\BaiKiemTra2\obj\Debug\BaiKiemTra2.exe
+C:\Users\ACER\OneDrive\Máy tính\PhamMinhTuan2018605228\BaiKiemTra2\BaiKiemTra2\obj\Debug\BaiKiemTra2.pdb

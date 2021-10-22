@@ -1,0 +1,10 @@
+C:\Users\ACER\OneDrive\Máy tính\BTOFF\BT_THUC_HANH_29_07\BT_THUC_HANH_29_07\bin\Debug\BT_THUC_HANH_29_07.exe.config
+C:\Users\ACER\OneDrive\Máy tính\BTOFF\BT_THUC_HANH_29_07\BT_THUC_HANH_29_07\bin\Debug\BT_THUC_HANH_29_07.exe
+C:\Users\ACER\OneDrive\Máy tính\BTOFF\BT_THUC_HANH_29_07\BT_THUC_HANH_29_07\bin\Debug\BT_THUC_HANH_29_07.pdb
+C:\Users\ACER\OneDrive\Máy tính\BTOFF\BT_THUC_HANH_29_07\BT_THUC_HANH_29_07\obj\Debug\BT_THUC_HANH_29_07.csproj.AssemblyReference.cache
+C:\Users\ACER\OneDrive\Máy tính\BTOFF\BT_THUC_HANH_29_07\BT_THUC_HANH_29_07\obj\Debug\BT_THUC_HANH_29_07.FormSanPham.resources
+C:\Users\ACER\OneDrive\Máy tính\BTOFF\BT_THUC_HANH_29_07\BT_THUC_HANH_29_07\obj\Debug\BT_THUC_HANH_29_07.Properties.Resources.resources
+C:\Users\ACER\OneDrive\Máy tính\BTOFF\BT_THUC_HANH_29_07\BT_THUC_HANH_29_07\obj\Debug\BT_THUC_HANH_29_07.csproj.GenerateResource.cache
+C:\Users\ACER\OneDrive\Máy tính\BTOFF\BT_THUC_HANH_29_07\BT_THUC_HANH_29_07\obj\Debug\BT_THUC_HANH_29_07.csproj.CoreCompileInputs.cache
+C:\Users\ACER\OneDrive\Máy tính\BTOFF\BT_THUC_HANH_29_07\BT_THUC_HANH_29_07\obj\Debug\BT_THUC_HANH_29_07.exe
+C:\Users\ACER\OneDrive\Máy tính\BTOFF\BT_THUC_HANH_29_07\BT_THUC_HANH_29_07\obj\Debug\BT_THUC_HANH_29_07.pdb

@@ -1,0 +1,15 @@
+F:\C#\Kiphu\Ontap_ADO\QLHangmaytinh\QLHangMaytinh\QLHangMaytinh\bin\Debug\QLHangMaytinh.exe.config
+F:\C#\Kiphu\Ontap_ADO\QLHangmaytinh\QLHangMaytinh\QLHangMaytinh\bin\Debug\QLHangMaytinh.exe
+F:\C#\Kiphu\Ontap_ADO\QLHangmaytinh\QLHangMaytinh\QLHangMaytinh\bin\Debug\QLHangMaytinh.pdb
+F:\C#\Kiphu\Ontap_ADO\QLHangmaytinh\QLHangMaytinh\QLHangMaytinh\obj\Debug\QLHangMaytinh.csproj.AssemblyReference.cache
+F:\C#\Kiphu\Ontap_ADO\QLHangmaytinh\QLHangMaytinh\QLHangMaytinh\obj\Debug\QLHangMaytinh.Properties.Resources.resources
+F:\C#\Kiphu\Ontap_ADO\QLHangmaytinh\QLHangMaytinh\QLHangMaytinh\obj\Debug\QLHangMaytinh.csproj.GenerateResource.cache
+F:\C#\Kiphu\Ontap_ADO\QLHangmaytinh\QLHangMaytinh\QLHangMaytinh\obj\Debug\QLHangMaytinh.csproj.CoreCompileInputs.cache
+F:\C#\Kiphu\Ontap_ADO\QLHangmaytinh\QLHangMaytinh\QLHangMaytinh\obj\Debug\QLHangMaytinh.exe
+F:\C#\Kiphu\Ontap_ADO\QLHangmaytinh\QLHangMaytinh\QLHangMaytinh\obj\Debug\QLHangMaytinh.pdb
+F:\C#\Kiphu\Ontap_ADO\QLHangmaytinh\QLHangMaytinh\QLHangMaytinh\bin\Debug\BUS.dll
+F:\C#\Kiphu\Ontap_ADO\QLHangmaytinh\QLHangMaytinh\QLHangMaytinh\bin\Debug\DAl.dll
+F:\C#\Kiphu\Ontap_ADO\QLHangmaytinh\QLHangMaytinh\QLHangMaytinh\bin\Debug\BUS.pdb
+F:\C#\Kiphu\Ontap_ADO\QLHangmaytinh\QLHangMaytinh\QLHangMaytinh\bin\Debug\DAl.pdb
+F:\C#\Kiphu\Ontap_ADO\QLHangmaytinh\QLHangMaytinh\QLHangMaytinh\obj\Debug\QLHangMaytinh.formhang.resources
+F:\C#\Kiphu\Ontap_ADO\QLHangmaytinh\QLHangMaytinh\QLHangMaytinh\obj\Debug\QLHangMaytinh.csproj.CopyComplete

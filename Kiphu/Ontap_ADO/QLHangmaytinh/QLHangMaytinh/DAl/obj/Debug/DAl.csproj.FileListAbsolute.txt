@@ -1,0 +1,6 @@
+F:\C#\Kiphu\Ontap_ADO\QLHangmaytinh\QLHangMaytinh\DAl\bin\Debug\DAl.dll
+F:\C#\Kiphu\Ontap_ADO\QLHangmaytinh\QLHangMaytinh\DAl\bin\Debug\DAl.pdb
+F:\C#\Kiphu\Ontap_ADO\QLHangmaytinh\QLHangMaytinh\DAl\obj\Debug\DAl.csproj.AssemblyReference.cache
+F:\C#\Kiphu\Ontap_ADO\QLHangmaytinh\QLHangMaytinh\DAl\obj\Debug\DAl.csproj.CoreCompileInputs.cache
+F:\C#\Kiphu\Ontap_ADO\QLHangmaytinh\QLHangMaytinh\DAl\obj\Debug\DAl.dll
+F:\C#\Kiphu\Ontap_ADO\QLHangmaytinh\QLHangMaytinh\DAl\obj\Debug\DAl.pdb

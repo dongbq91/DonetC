@@ -1,0 +1,15 @@
+F:\C#\Kiphu\KiemtraCuoiki\BachQuocDong_2018604425\BachQuocDong_2018604425\GUI\bin\Debug\GUI.exe.config
+F:\C#\Kiphu\KiemtraCuoiki\BachQuocDong_2018604425\BachQuocDong_2018604425\GUI\bin\Debug\GUI.exe
+F:\C#\Kiphu\KiemtraCuoiki\BachQuocDong_2018604425\BachQuocDong_2018604425\GUI\bin\Debug\GUI.pdb
+F:\C#\Kiphu\KiemtraCuoiki\BachQuocDong_2018604425\BachQuocDong_2018604425\GUI\bin\Debug\BUS.dll
+F:\C#\Kiphu\KiemtraCuoiki\BachQuocDong_2018604425\BachQuocDong_2018604425\GUI\bin\Debug\DAL.dll
+F:\C#\Kiphu\KiemtraCuoiki\BachQuocDong_2018604425\BachQuocDong_2018604425\GUI\bin\Debug\BUS.pdb
+F:\C#\Kiphu\KiemtraCuoiki\BachQuocDong_2018604425\BachQuocDong_2018604425\GUI\bin\Debug\DAL.pdb
+F:\C#\Kiphu\KiemtraCuoiki\BachQuocDong_2018604425\BachQuocDong_2018604425\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+F:\C#\Kiphu\KiemtraCuoiki\BachQuocDong_2018604425\BachQuocDong_2018604425\GUI\obj\Debug\GUI.Form1.resources
+F:\C#\Kiphu\KiemtraCuoiki\BachQuocDong_2018604425\BachQuocDong_2018604425\GUI\obj\Debug\GUI.Properties.Resources.resources
+F:\C#\Kiphu\KiemtraCuoiki\BachQuocDong_2018604425\BachQuocDong_2018604425\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+F:\C#\Kiphu\KiemtraCuoiki\BachQuocDong_2018604425\BachQuocDong_2018604425\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+F:\C#\Kiphu\KiemtraCuoiki\BachQuocDong_2018604425\BachQuocDong_2018604425\GUI\obj\Debug\GUI.csproj.CopyComplete
+F:\C#\Kiphu\KiemtraCuoiki\BachQuocDong_2018604425\BachQuocDong_2018604425\GUI\obj\Debug\GUI.exe
+F:\C#\Kiphu\KiemtraCuoiki\BachQuocDong_2018604425\BachQuocDong_2018604425\GUI\obj\Debug\GUI.pdb

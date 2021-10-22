@@ -1,0 +1,9 @@
+F:\C#\Kiphu\Ontap_ADO\QLHangmaytinh\QLHangMaytinh\BUS\bin\Debug\BUS.dll
+F:\C#\Kiphu\Ontap_ADO\QLHangmaytinh\QLHangMaytinh\BUS\bin\Debug\BUS.pdb
+F:\C#\Kiphu\Ontap_ADO\QLHangmaytinh\QLHangMaytinh\BUS\bin\Debug\DAl.dll
+F:\C#\Kiphu\Ontap_ADO\QLHangmaytinh\QLHangMaytinh\BUS\bin\Debug\DAl.pdb
+F:\C#\Kiphu\Ontap_ADO\QLHangmaytinh\QLHangMaytinh\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+F:\C#\Kiphu\Ontap_ADO\QLHangmaytinh\QLHangMaytinh\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+F:\C#\Kiphu\Ontap_ADO\QLHangmaytinh\QLHangMaytinh\BUS\obj\Debug\BUS.csproj.CopyComplete
+F:\C#\Kiphu\Ontap_ADO\QLHangmaytinh\QLHangMaytinh\BUS\obj\Debug\BUS.dll
+F:\C#\Kiphu\Ontap_ADO\QLHangmaytinh\QLHangMaytinh\BUS\obj\Debug\BUS.pdb

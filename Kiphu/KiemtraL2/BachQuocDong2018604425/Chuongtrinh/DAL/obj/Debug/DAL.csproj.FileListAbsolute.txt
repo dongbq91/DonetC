@@ -1,0 +1,6 @@
+F:\C#\Kiphu\BachQuocDong2018604425\DAL\bin\Debug\DAL.dll
+F:\C#\Kiphu\BachQuocDong2018604425\DAL\bin\Debug\DAL.pdb
+F:\C#\Kiphu\BachQuocDong2018604425\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+F:\C#\Kiphu\BachQuocDong2018604425\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+F:\C#\Kiphu\BachQuocDong2018604425\DAL\obj\Debug\DAL.dll
+F:\C#\Kiphu\BachQuocDong2018604425\DAL\obj\Debug\DAL.pdb
