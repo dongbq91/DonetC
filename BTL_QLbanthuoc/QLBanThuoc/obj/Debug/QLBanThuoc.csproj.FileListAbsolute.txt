@@ -1,0 +1,12 @@
+F:\C#\BTL_QLbanthuoc\Login\bin\Debug\Login.exe.config
+F:\C#\BTL_QLbanthuoc\Login\bin\Debug\Login.exe
+F:\C#\BTL_QLbanthuoc\Login\bin\Debug\Login.pdb
+F:\C#\BTL_QLbanthuoc\Login\obj\Debug\QLBanThuoc.csprojAssemblyReference.cache
+F:\C#\BTL_QLbanthuoc\Login\obj\Debug\Login.Login.resources
+F:\C#\BTL_QLbanthuoc\Login\obj\Debug\Login.DSThuoc.resources
+F:\C#\BTL_QLbanthuoc\Login\obj\Debug\Login.Hangban.resources
+F:\C#\BTL_QLbanthuoc\Login\obj\Debug\Login.Properties.Resources.resources
+F:\C#\BTL_QLbanthuoc\Login\obj\Debug\QLBanThuoc.csproj.GenerateResource.cache
+F:\C#\BTL_QLbanthuoc\Login\obj\Debug\QLBanThuoc.csproj.CoreCompileInputs.cache
+F:\C#\BTL_QLbanthuoc\Login\obj\Debug\Login.exe
+F:\C#\BTL_QLbanthuoc\Login\obj\Debug\Login.pdb

@@ -1,0 +1,10 @@
+F:\C#\BTL_QLbanthuoc\Login\bin\Debug\Login.exe.config
+F:\C#\BTL_QLbanthuoc\Login\bin\Debug\Login.exe
+F:\C#\BTL_QLbanthuoc\Login\bin\Debug\Login.pdb
+F:\C#\BTL_QLbanthuoc\Login\obj\Debug\Login.csprojAssemblyReference.cache
+F:\C#\BTL_QLbanthuoc\Login\obj\Debug\Login.Login.resources
+F:\C#\BTL_QLbanthuoc\Login\obj\Debug\Login.Properties.Resources.resources
+F:\C#\BTL_QLbanthuoc\Login\obj\Debug\Login.csproj.GenerateResource.cache
+F:\C#\BTL_QLbanthuoc\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+F:\C#\BTL_QLbanthuoc\Login\obj\Debug\Login.exe
+F:\C#\BTL_QLbanthuoc\Login\obj\Debug\Login.pdb

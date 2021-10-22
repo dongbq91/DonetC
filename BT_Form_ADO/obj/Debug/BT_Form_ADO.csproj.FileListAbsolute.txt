@@ -1,0 +1,30 @@
+H:\Code\C sharp\BT_Form_ADO\bin\Debug\BT_Form_ADO.exe.config
+H:\Code\C sharp\BT_Form_ADO\bin\Debug\BT_Form_ADO.exe
+H:\Code\C sharp\BT_Form_ADO\bin\Debug\BT_Form_ADO.pdb
+H:\Code\C sharp\BT_Form_ADO\obj\Debug\BT_Form_ADO.csprojAssemblyReference.cache
+H:\Code\C sharp\BT_Form_ADO\obj\Debug\BT_Form_ADO.BTSQL.resources
+H:\Code\C sharp\BT_Form_ADO\obj\Debug\BT_Form_ADO.Properties.Resources.resources
+H:\Code\C sharp\BT_Form_ADO\obj\Debug\BT_Form_ADO.csproj.GenerateResource.cache
+H:\Code\C sharp\BT_Form_ADO\obj\Debug\BT_Form_ADO.csproj.CoreCompileInputs.cache
+H:\Code\C sharp\BT_Form_ADO\obj\Debug\BT_Form_ADO.exe
+H:\Code\C sharp\BT_Form_ADO\obj\Debug\BT_Form_ADO.pdb
+H:\Code\C#\BT_Form_ADO\bin\Debug\BT_Form_ADO.exe.config
+H:\Code\C#\BT_Form_ADO\bin\Debug\BT_Form_ADO.exe
+H:\Code\C#\BT_Form_ADO\bin\Debug\BT_Form_ADO.pdb
+H:\Code\C#\BT_Form_ADO\obj\Debug\BT_Form_ADO.csprojAssemblyReference.cache
+H:\Code\C#\BT_Form_ADO\obj\Debug\BT_Form_ADO.BTSQL.resources
+H:\Code\C#\BT_Form_ADO\obj\Debug\BT_Form_ADO.Properties.Resources.resources
+H:\Code\C#\BT_Form_ADO\obj\Debug\BT_Form_ADO.csproj.GenerateResource.cache
+H:\Code\C#\BT_Form_ADO\obj\Debug\BT_Form_ADO.csproj.CoreCompileInputs.cache
+H:\Code\C#\BT_Form_ADO\obj\Debug\BT_Form_ADO.exe
+H:\Code\C#\BT_Form_ADO\obj\Debug\BT_Form_ADO.pdb
+F:\C#\BT_Form_ADO\bin\Debug\BT_Form_ADO.exe.config
+F:\C#\BT_Form_ADO\bin\Debug\BT_Form_ADO.exe
+F:\C#\BT_Form_ADO\bin\Debug\BT_Form_ADO.pdb
+F:\C#\BT_Form_ADO\obj\Debug\BT_Form_ADO.csprojAssemblyReference.cache
+F:\C#\BT_Form_ADO\obj\Debug\BT_Form_ADO.BTSQL.resources
+F:\C#\BT_Form_ADO\obj\Debug\BT_Form_ADO.Properties.Resources.resources
+F:\C#\BT_Form_ADO\obj\Debug\BT_Form_ADO.csproj.GenerateResource.cache
+F:\C#\BT_Form_ADO\obj\Debug\BT_Form_ADO.csproj.CoreCompileInputs.cache
+F:\C#\BT_Form_ADO\obj\Debug\BT_Form_ADO.exe
+F:\C#\BT_Form_ADO\obj\Debug\BT_Form_ADO.pdb
