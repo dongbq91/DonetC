@@ -1,0 +1,9 @@
+C:\Users\PC\source\repos\BUS_QLTV\bin\Debug\BUS_QLTV.dll
+C:\Users\PC\source\repos\BUS_QLTV\bin\Debug\BUS_QLTV.pdb
+C:\Users\PC\source\repos\BUS_QLTV\bin\Debug\DAL_QLTV.dll
+C:\Users\PC\source\repos\BUS_QLTV\bin\Debug\DAL_QLTV.pdb
+C:\Users\PC\source\repos\BUS_QLTV\obj\Debug\BUS_QLTV.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\BUS_QLTV\obj\Debug\BUS_QLTV.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\BUS_QLTV\obj\Debug\BUS_QLTV.csproj.CopyComplete
+C:\Users\PC\source\repos\BUS_QLTV\obj\Debug\BUS_QLTV.dll
+C:\Users\PC\source\repos\BUS_QLTV\obj\Debug\BUS_QLTV.pdb

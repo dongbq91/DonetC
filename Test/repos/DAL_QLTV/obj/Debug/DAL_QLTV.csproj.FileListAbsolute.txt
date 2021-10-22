@@ -1,0 +1,6 @@
+C:\Users\PC\source\repos\DAL_QLTV\bin\Debug\DAL_QLTV.dll
+C:\Users\PC\source\repos\DAL_QLTV\bin\Debug\DAL_QLTV.pdb
+C:\Users\PC\source\repos\DAL_QLTV\obj\Debug\DAL_QLTV.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\DAL_QLTV\obj\Debug\DAL_QLTV.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\DAL_QLTV\obj\Debug\DAL_QLTV.dll
+C:\Users\PC\source\repos\DAL_QLTV\obj\Debug\DAL_QLTV.pdb

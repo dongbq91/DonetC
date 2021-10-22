@@ -1,0 +1,6 @@
+DONGBQ-PC
+Data Source=DONGBQ-PC;Initial Catalog=QLNS;Integrated Security=True
+
+Data Source=DONGBQ-PC;Initial Catalog=QLBH;Integrated Security=True
+
+Data Source=DONGBQ-PC;Initial Catalog=btl;Integrated Security=True

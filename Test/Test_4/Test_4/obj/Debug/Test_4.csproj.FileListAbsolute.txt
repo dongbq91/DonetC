@@ -1,0 +1,15 @@
+F:\C#\Test\Test_4\Test_4\bin\Debug\Test_4.exe.config
+F:\C#\Test\Test_4\Test_4\bin\Debug\Test_4.exe
+F:\C#\Test\Test_4\Test_4\bin\Debug\Test_4.pdb
+F:\C#\Test\Test_4\Test_4\bin\Debug\Bus_T4.dll
+F:\C#\Test\Test_4\Test_4\bin\Debug\Dal_T4.dll
+F:\C#\Test\Test_4\Test_4\bin\Debug\Bus_T4.pdb
+F:\C#\Test\Test_4\Test_4\bin\Debug\Dal_T4.pdb
+F:\C#\Test\Test_4\Test_4\obj\Debug\Test_4.csprojAssemblyReference.cache
+F:\C#\Test\Test_4\Test_4\obj\Debug\Test_4.Form1.resources
+F:\C#\Test\Test_4\Test_4\obj\Debug\Test_4.Properties.Resources.resources
+F:\C#\Test\Test_4\Test_4\obj\Debug\Test_4.csproj.GenerateResource.cache
+F:\C#\Test\Test_4\Test_4\obj\Debug\Test_4.csproj.CoreCompileInputs.cache
+F:\C#\Test\Test_4\Test_4\obj\Debug\Test_4.csproj.CopyComplete
+F:\C#\Test\Test_4\Test_4\obj\Debug\Test_4.exe
+F:\C#\Test\Test_4\Test_4\obj\Debug\Test_4.pdb

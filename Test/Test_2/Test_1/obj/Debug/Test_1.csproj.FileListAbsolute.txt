@@ -1,0 +1,13 @@
+F:\C#\Test\Test_2\Test_1\bin\Debug\Test_1.exe.config
+F:\C#\Test\Test_2\Test_1\bin\Debug\Test_1.exe
+F:\C#\Test\Test_2\Test_1\bin\Debug\Test_1.pdb
+F:\C#\Test\Test_2\Test_1\bin\Debug\BUS_Test_1.dll
+F:\C#\Test\Test_2\Test_1\bin\Debug\BUS_Test_1.pdb
+F:\C#\Test\Test_2\Test_1\obj\Debug\Test_1.csprojAssemblyReference.cache
+F:\C#\Test\Test_2\Test_1\obj\Debug\Test_1.Gui.resources
+F:\C#\Test\Test_2\Test_1\obj\Debug\Test_1.Properties.Resources.resources
+F:\C#\Test\Test_2\Test_1\obj\Debug\Test_1.csproj.GenerateResource.cache
+F:\C#\Test\Test_2\Test_1\obj\Debug\Test_1.csproj.CoreCompileInputs.cache
+F:\C#\Test\Test_2\Test_1\obj\Debug\Test_1.csproj.CopyComplete
+F:\C#\Test\Test_2\Test_1\obj\Debug\Test_1.exe
+F:\C#\Test\Test_2\Test_1\obj\Debug\Test_1.pdb

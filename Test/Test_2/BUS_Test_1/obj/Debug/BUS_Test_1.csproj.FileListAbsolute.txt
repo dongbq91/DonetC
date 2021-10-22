@@ -1,0 +1,9 @@
+F:\C#\Test\Test_2\BUS_Test_1\bin\Debug\BUS_Test_1.dll
+F:\C#\Test\Test_2\BUS_Test_1\bin\Debug\BUS_Test_1.pdb
+F:\C#\Test\Test_2\BUS_Test_1\bin\Debug\Dal_Test_1.dll
+F:\C#\Test\Test_2\BUS_Test_1\bin\Debug\Dal_Test_1.pdb
+F:\C#\Test\Test_2\BUS_Test_1\obj\Debug\BUS_Test_1.csprojAssemblyReference.cache
+F:\C#\Test\Test_2\BUS_Test_1\obj\Debug\BUS_Test_1.csproj.CoreCompileInputs.cache
+F:\C#\Test\Test_2\BUS_Test_1\obj\Debug\BUS_Test_1.csproj.CopyComplete
+F:\C#\Test\Test_2\BUS_Test_1\obj\Debug\BUS_Test_1.dll
+F:\C#\Test\Test_2\BUS_Test_1\obj\Debug\BUS_Test_1.pdb

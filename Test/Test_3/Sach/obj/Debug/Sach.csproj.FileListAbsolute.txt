@@ -1,0 +1,15 @@
+F:\C#\Test\Test_3\Sach\bin\Debug\Sach.exe.config
+F:\C#\Test\Test_3\Sach\bin\Debug\Sach.exe
+F:\C#\Test\Test_3\Sach\bin\Debug\Sach.pdb
+F:\C#\Test\Test_3\Sach\bin\Debug\Bus_T3.dll
+F:\C#\Test\Test_3\Sach\bin\Debug\Bus_T3.pdb
+F:\C#\Test\Test_3\Sach\obj\Debug\Sach.csprojAssemblyReference.cache
+F:\C#\Test\Test_3\Sach\obj\Debug\Sach.GUI.resources
+F:\C#\Test\Test_3\Sach\obj\Debug\Sach.Properties.Resources.resources
+F:\C#\Test\Test_3\Sach\obj\Debug\Sach.csproj.GenerateResource.cache
+F:\C#\Test\Test_3\Sach\obj\Debug\Sach.csproj.CoreCompileInputs.cache
+F:\C#\Test\Test_3\Sach\obj\Debug\Sach.csproj.CopyComplete
+F:\C#\Test\Test_3\Sach\obj\Debug\Sach.exe
+F:\C#\Test\Test_3\Sach\obj\Debug\Sach.pdb
+F:\C#\Test\Test_3\Sach\bin\Debug\Dal_T3.dll
+F:\C#\Test\Test_3\Sach\bin\Debug\Dal_T3.pdb
